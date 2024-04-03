@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Btec_Website.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240402131436_first")]
+    [Migration("20240402155248_first")]
     partial class first
     {
         /// <inheritdoc />
